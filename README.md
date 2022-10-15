@@ -8,6 +8,7 @@
 ![alt text](Screenshot 2022-10-14 at 9.50.35 PM.png)
 
 Using cd and ls:
+
 <img width="742" alt="image" src="https://user-images.githubusercontent.com/58932929/195963756-2f60888a-70cd-4c29-ab89-ebf53bc6ab85.png">
 
 ### Text editor, vim
@@ -42,6 +43,7 @@ build files in other directories, export the path again.
 
 Now you can go to the example file, there are make files for each of the example. if you just make (program name), the executable would be generated
 in the build directory.
+
 <img width="453" alt="image" src="https://user-images.githubusercontent.com/58932929/195964477-c7d9002a-ce21-4fe6-b288-10dc93df5fe6.png">
 
 Then find the `.uf2` file in the build directory, then we will load and run. 
