@@ -8,9 +8,7 @@
 ![alt text](Screenshot 2022-10-14 at 9.50.35 PM.png)
 
 Using cd and ls:
-<img width="742" alt="image"
-
-src="https://user-images.githubusercontent.com/58932929/195963756-2f60888a-70cd-4c29-ab89-ebf53bc6ab85.png">
+<img width="742" alt="image" src="https://user-images.githubusercontent.com/58932929/195963756-2f60888a-70cd-4c29-ab89-ebf53bc6ab85.png">
 
 ### Text editor, vim
 - basic operations
